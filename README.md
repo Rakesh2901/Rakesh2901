@@ -1,17 +1,157 @@
-# Rakesh2901
-# 💫 About Me:
-🎓 MNIT Jaipur | Electrical Engg<br>🧠 AI/ML Enthusiast | Software Dev<br>⚡ Bridging the gap between hardware and intelligent software. Turning high voltage into high performance!
+<div align="center">
 
+# Hi, I'm Rakesh
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakesh-712923324) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakeshkumar290106@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rakesh2901&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rakesh2901&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh2901&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=00E7FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Backend+Developer;Java+%7C+Python+Developer;Open+Source+Contributor;Building+Intelligent+Software" alt="Typing SVG" />
+
+### 🎓 Pre-final Year Electrical Engineering Student @ MNIT Jaipur
+
+*"Bridging Electrical Engineering and Artificial Intelligence to build impactful software."*
+
+<p>
+  <a href="https://linkedin.com/in/rakesh-712923324">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:rakeshkumar290106@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Rakesh2901">
+    <img src="https://img.shields.io/github/followers/Rakesh2901?style=for-the-badge"/>
+  </a>
+
+</p>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rakesh2901&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 🚀 About Me
+
+- 🎓 Pre-final Year Electrical Engineering Student at **MNIT Jaipur**
+- 🤖 Passionate about **Artificial Intelligence, Deep Learning & Computer Vision**
+- 💻 Backend Developer with **Java, Spring Boot & Python**
+- 🌱 Currently learning **Docker, Kubernetes, AWS, LangChain & MLOps**
+- 🔭 Building intelligent applications that solve real-world engineering problems
+- 🤝 Open to Open Source Contributions and Collaboration
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+## Backend
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
+---
+
+## AI / ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+---
+
+## Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+---
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+
+---
+
+# 🌟 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🚦 Traffic Violation Detection System | AI-powered Computer Vision system for helmet detection, illegal parking, stop-line violations and traffic monitoring. |
+| 🌐 L4S QUIC User Space Demo | Java implementation of Low Latency QUIC congestion control with telemetry dashboard. |
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rakesh2901&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh2901&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Rakesh2901&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rakesh2901&theme=tokyonight&margin-w=10&no-frame=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+[![Rakesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rakesh2901&theme=tokyo-night)](https://github.com/Rakesh2901)
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:rakeshkumar290106@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/rakesh-712923324">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<!-- Add Portfolio -->
+<a href="https://leetcode.com/u/Bionic_Bruste/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+<!-- Add Codeforces -->
+
+</p>
+
+---
+
+<div align="center">
+
+![](https://visitcount.itsvg.in/api?id=Rakesh2901&icon=5&color=6)
+
+### ⭐ *"Building intelligent systems that solve real-world problems."*
+
+</div>
