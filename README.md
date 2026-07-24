@@ -4,7 +4,11 @@
 
 </div>
 
+<div align="center">
+
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=00E7FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Backend+Developer;Java+%7C+Python+Developer;Open+Source+Contributor;Building+Intelligent+Software" alt="Typing SVG" />
+
+</div>
 
 ### 🎓 Pre-final Year Electrical Engineering Student @ MNIT Jaipur
 
