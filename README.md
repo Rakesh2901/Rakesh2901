@@ -90,35 +90,6 @@
 | 🚦 Traffic Violation Detection System | AI-powered Computer Vision system for helmet detection, illegal parking, stop-line violations and traffic monitoring. |
 | 🌐 L4S QUIC User Space Demo | Java implementation of Low Latency QUIC congestion control with telemetry dashboard. |
 
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rakesh2901&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh2901&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Rakesh2901&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rakesh2901&theme=tokyonight&margin-w=10&no-frame=true"/>
-
-</p>
-
----
 
 # 📊 Contribution Graph
 
