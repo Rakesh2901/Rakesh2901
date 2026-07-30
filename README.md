@@ -99,6 +99,10 @@
 
 [![Rakesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rakesh2901&theme=tokyo-night)](https://github.com/Rakesh2901)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rakesh2901/Rakesh2901/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
 ---
 
 # 📫 Connect With Me
